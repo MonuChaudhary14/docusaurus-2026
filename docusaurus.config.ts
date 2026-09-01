@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+        {
+            label: 'aryan',
+            to: '/docs/aryan',
+            position: 'left'
+          },
       ],
     },
     // footer: {
