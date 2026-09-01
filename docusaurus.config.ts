@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+{
+  label: 'Harshita',
+  to: '/docs/harshita',
+  position: 'left'
+},
       ],
     },
     // footer: {
