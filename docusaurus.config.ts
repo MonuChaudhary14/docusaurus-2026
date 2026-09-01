@@ -92,8 +92,8 @@ const config: Config = {
         //   position: 'right',
         // },
           {
-            label: 'monu',
-            to: '/docs/monu',
+            label: 'Princy',
+            to: '/docs/princy',
             position: 'left'
           },
       ],
