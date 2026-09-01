@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+            label: 'Mayank',
+            to: '/docs/mayank',
+            position: 'left'
+          },
       ],
     },
     // footer: {
