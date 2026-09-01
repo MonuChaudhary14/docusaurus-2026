@@ -73,9 +73,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Vigya Verma',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'my site Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -92,8 +92,8 @@ const config: Config = {
         //   position: 'right',
         // },
           {
-            label: 'monu',
-            to: '/docs/monu',
+            label: 'Vigya',
+            to: '/docs/Vigya',
             position: 'left'
           },
       ],
