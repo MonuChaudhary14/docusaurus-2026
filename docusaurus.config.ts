@@ -79,6 +79,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+      {
+          to: '/docs/keshav',
+          label: 'Keshav Pratap Singh',
+          position: 'left',
+        }, 
         // {
         //type: 'docSidebar',
         //sidebarId: 'tutorialSidebar',
