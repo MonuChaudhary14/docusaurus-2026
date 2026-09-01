@@ -91,6 +91,11 @@ const config: Config = {
         //   label: 'GitHub',
         //   position: 'right',
         // },
+        {
+          label: 'Vaishnavi Jaiswal',
+          to: '/docs/vaishnavi',
+          position: 'left',
+        },
           {
             label: 'monu',
             to: '/docs/monu',
