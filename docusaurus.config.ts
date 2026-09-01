@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+            label: 'shabd',
+            to:'/docs/shabd',
+            position: 'left'
+          }
       ],
     },
     // footer: {
