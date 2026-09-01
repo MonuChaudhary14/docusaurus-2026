@@ -79,6 +79,7 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {to: '/docs/saumya_solanki', label: 'Saumya Solanki', position: 'left'},
         // {
         //type: 'docSidebar',
         //sidebarId: 'tutorialSidebar',
