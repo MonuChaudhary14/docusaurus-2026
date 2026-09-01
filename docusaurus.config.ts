@@ -92,9 +92,14 @@ const config: Config = {
         //   position: 'right',
         // },
           {
-            label: 'monu',
-            to: '/docs/monu',
+            label: 'aayush',
+            to: '/docs/aayush',
             position: 'left'
+          },
+          {
+             label: 'monu',
+             to:'/docs/monu',
+             position: 'left'
           },
       ],
     },
