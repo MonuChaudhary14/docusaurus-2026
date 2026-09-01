@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+      label: 'Tushar_Talan',
+      to: '/docs/tushar',
+      position: 'left'
+    },
       ],
     },
     // footer: {
