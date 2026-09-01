@@ -92,8 +92,8 @@ const config: Config = {
         //   position: 'right',
         // },
           {
-            label: 'monu',
-            to: '/docs/monu',
+            label: 'Shankar-Bhardwaj',
+            to: '/docs/Shankar-Bhardwaj',
             position: 'left'
           },
       ],
