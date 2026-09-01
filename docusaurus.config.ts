@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+            label: "shubham",
+            to: "/docs/shubham",
+            position: "left",
+          }
       ],
     },
     // footer: {
