@@ -79,24 +79,29 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        // {
-        //type: 'docSidebar',
-        //sidebarId: 'tutorialSidebar',
-        //position: 'left',
-        //label: 'Tutorial',
-        //},
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
-          {
-            label: 'monu',
-            to: '/docs/monu',
-            position: 'left'
-          },
-      ],
+    // {
+    //type: 'docSidebar',
+    //sidebarId: 'tutorialSidebar',
+    //position: 'left',
+    //label: 'Tutorial',
+    //},
+    // {to: '/blog', label: 'Blog', position: 'left'},
+    // {
+    //   href: 'https://github.com/facebook/docusaurus',
+    //   label: 'GitHub',
+    //   position: 'right',
+    // },
+    {
+      label: 'monu',
+      to: '/docs/monu',
+      position: 'left'
+    },
+    {
+      label: 'Aryansh Singh',
+      to: '/docs/aryansh-singh',
+      position: 'left'
+    },
+  ],
     },
     // footer: {
     //   style: 'dark',
