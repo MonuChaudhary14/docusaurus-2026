@@ -1,0 +1,3 @@
+[submodule "vaishnavi-repo"]
+	path = vaishnavi-repo
+	url = https://github.com/vaishnavi06132/docusaurus-2026.git
