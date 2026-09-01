@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+            label: 'krishn',
+            to: '/docs/krishn',
+            position: 'left'
+          },
       ],
     },
     // footer: {
