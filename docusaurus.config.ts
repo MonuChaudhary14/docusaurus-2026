@@ -79,6 +79,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          label:'avi',
+          to: '/docs/avi',
+          position: 'left'
+        },
         // {
         //type: 'docSidebar',
         //sidebarId: 'tutorialSidebar',
