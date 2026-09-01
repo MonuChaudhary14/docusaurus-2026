@@ -21,14 +21,14 @@ Hello, I'm Aviral Umrao, a computer science student who enjoys building things w
 ![Project 1](images/leetcode_analyser.png)
 
 - *Description:*  A web application that turns LeetCode profile data into useful insights, helping users understand their problem-solving activity, question difficulty, language usage, and overall coding progress.
-- *GitHub Repository:* [Project 1 Repo](https://github.com/aviralumrao/leetcode-analyser)
+- *GitHub Repository:* [Leetcode Analyser](https://github.com/aviralumrao/leetcode-analyser)
 
 ### Project 2: LOL Factory
 
 ![Project 2](images/lol_factory.png)
 
 - *Description:* An interactive web project built to experiment with creative frontend development, user interactions, and responsive layouts while keeping the experience simple and engaging.
-- *GitHub Repository:* [Project 2 Repo](https://github.com/aviralumrao/LOL-Factory)
+- *GitHub Repository:* [LOL Factory](https://github.com/aviralumrao/LOL-Factory)
 
 ## Call to Action
 
