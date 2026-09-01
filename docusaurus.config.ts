@@ -92,8 +92,8 @@ const config: Config = {
         //   position: 'right',
         // },
           {
-            label: 'monu',
-            to: '/docs/monu',
+            label: 'Aniket',
+            to: '/docs/Aniket',
             position: 'left'
           },
       ],
