@@ -79,6 +79,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+{
+  label: 'Nandini',
+  to: '/docs/nandini',
+  position: 'left',
+},
         // {
         //type: 'docSidebar',
         //sidebarId: 'tutorialSidebar',
