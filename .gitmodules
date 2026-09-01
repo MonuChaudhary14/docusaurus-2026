@@ -1,0 +1,3 @@
+[submodule "personal-repo"]
+	path = personal-repo
+	url = https://github.com/ShabdRastogi/personal-repo.git
