@@ -79,6 +79,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+        to: '/docs/vaishnavi06132',
+        label: 'Vaishnavi Shankrit',
+        position: 'left',
+        },
         // {
         //type: 'docSidebar',
         //sidebarId: 'tutorialSidebar',
