@@ -86,11 +86,11 @@ const config: Config = {
         //label: 'Tutorial',
         //},
         // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        {
+          to: '/docs/aradhy',
+          label: 'Aradhy Tripathi',
+          position: 'right',
+        },
           {
             label: 'monu',
             to: '/docs/monu',
