@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+            label: 'Yenika',
+            to: '/docs/yenika_choudhary',
+            position: 'left'
+          },
       ],
     },
     // footer: {
