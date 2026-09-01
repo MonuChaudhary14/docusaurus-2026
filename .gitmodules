@@ -1,0 +1,3 @@
+[submodule "MealApp"]
+	path = MealApp
+	url = https://github.com/aniket120208-cmyk/MealApp
