@@ -91,10 +91,11 @@ const config: Config = {
         //   label: 'GitHub',
         //   position: 'right',
         // },
+          
           {
-            label: 'monu',
-            to: '/docs/monu',
-            position: 'left'
+            label: 'chetanya',
+            to: '/docs/chetanya',
+            position: 'left',
           },
       ],
     },
