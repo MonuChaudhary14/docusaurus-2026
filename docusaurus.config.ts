@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+          {
+            label: 'tanvi',
+            to: '/docs/tanvi',
+            position: 'left'
+          },
       ],
     },
     // footer: {
