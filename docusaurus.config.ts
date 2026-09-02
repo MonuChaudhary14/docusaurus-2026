@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/monu',
             position: 'left'
           },
+           {
+            label: 'swasti jain',
+            to: '/docs/swastijain',
+            position: 'left'
+          },
       ],
     },
     // footer: {
