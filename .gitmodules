@@ -1,0 +1,3 @@
+[submodule "git-training-task-template"]
+	path = git-training-task-template
+	url = https://github.com/Abhinav-engg/git-training-task-template
